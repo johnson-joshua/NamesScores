@@ -1,2 +1,7 @@
 c:\users\joshua\documents\visual studio 2015\Projects\NamesScores\NamesScores\bin\Debug\NamesScores.exe.config
 C:\Users\Joshua\Documents\GitHub\NamesScores\NamesScores\bin\Debug\NamesScores.exe.config
+C:\Users\Joshua\Documents\GitHub\NamesScores\NamesScores\bin\Debug\NamesScores.exe
+C:\Users\Joshua\Documents\GitHub\NamesScores\NamesScores\bin\Debug\NamesScores.pdb
+C:\Users\Joshua\Documents\GitHub\NamesScores\NamesScores\obj\Debug\NamesScores.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Documents\GitHub\NamesScores\NamesScores\obj\Debug\NamesScores.exe
+C:\Users\Joshua\Documents\GitHub\NamesScores\NamesScores\obj\Debug\NamesScores.pdb
