@@ -1,1 +1,2 @@
 c:\users\joshua\documents\visual studio 2015\Projects\NamesScores\NamesScores\bin\Debug\NamesScores.exe.config
+C:\Users\Joshua\Documents\GitHub\NamesScores\NamesScores\bin\Debug\NamesScores.exe.config
