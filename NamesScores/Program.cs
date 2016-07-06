@@ -14,6 +14,7 @@ using System.Threading.Tasks;
  * COLIN, which is worth 3 + 15 + 12 + 9 + 14 = 53, is the 938th name in the list.
  * So, COLIN would obtain a score of 938 × 53 = 49714.
  * What is the total of all the name scores in the file?
+ * ANSWER: 871198282 IS THE TOTAL NAME SCORE FOR ALL NAMES IN THE FILE
  **/
 namespace NamesScores
 {
@@ -32,7 +33,6 @@ namespace NamesScores
             {
                 //Set up a connection to the text file to be sorted
                 StreamReader sr = new StreamReader(@"C:\Users\Joshua\Documents\GitHub\NamesScores\NamesScores\names.txt");
-                //Console.WriteLine("Names.txt has been read successfullly!");
                 String names = sr.ReadToEnd();
                 namesArrayToSort = names.Split(',');
                 for(int i = 0; i < namesArrayToSort.Length; i++)
@@ -53,10 +53,10 @@ namespace NamesScores
                         namesArrayToSort[i] = namesArrayToSort[i].Trim();
                     }
                 }
-                Console.WriteLine(namesArrayToSort);
             }
             catch(Exception e)
             {
+                Console.WriteLine(e.StackTrace);
                 Console.WriteLine("The names.txt file could not be read!");
             }
         }
